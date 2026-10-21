@@ -12,113 +12,138 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nazila =====
-[1]Nazila      |09:03:33 | 20-10-2026| login OK @nazilakairani | score=1550 rank=4506
-[1]Nazila      |09:03:33 | 20-10-2026| serverTime=2026-10-20T09:03:33.000Z local=2026-10-20T09:03:33.416Z
+[1]Nazila      |09:03:05 | 21-10-2026| login OK @nazilakairani | score=1620 rank=4370
+[1]Nazila      |09:03:05 | 21-10-2026| serverTime=2026-10-21T09:03:05.000Z local=2026-10-21T09:03:05.225Z
 --> [1]Nazila menjalankan: Claim Daily
-[1]Nazila      |09:03:34 | 20-10-2026| daily: OK +10 poin score=1560
+[1]Nazila      |09:03:06 | 21-10-2026| daily: OK +10 poin score=1630
 --> [1]Nazila menjalankan: Auto All Tasks (6 pending)
-[1]Nazila      |09:03:36 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nazilakairani/status/2112469373615115065
-[1]Nazila      |09:03:36 | 20-10-2026| delay 10s...
-[1]Nazila      |09:03:48 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nazilakairani/status/2112469259811874973
-[1]Nazila      |09:03:48 | 20-10-2026| delay 10s...
-[1]Nazila      |09:04:00 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nazilakairani/status/2112469241355343874
-[1]Nazila      |09:04:00 | 20-10-2026| delay 10s...
-[1]Nazila      |09:04:12 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nazilakairani/status/2112469421759445948
-[1]Nazila      |09:04:12 | 20-10-2026| delay 10s...
-[1]Nazila      |09:04:24 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nazilakairani/status/2112469475981821548
-[1]Nazila      |09:04:24 | 20-10-2026| delay 10s...
-[1]Nazila      |09:04:37 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/nazilakairani/status/2112469492770857347
-[1]Nazila      |09:04:37 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nazila      |09:04:38 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/nazilakairani/status/2112469646259841790
+[1]Nazila      |09:03:08 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/nazilakairani/status/2112831572876480798
+[1]Nazila      |09:03:08 | 21-10-2026| delay 10s...
+[1]Nazila      |09:03:21 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/nazilakairani/status/2112831474087543285
+[1]Nazila      |09:03:21 | 21-10-2026| delay 10s...
+[1]Nazila      |09:03:33 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/nazilakairani/status/2112831866751842006
+[1]Nazila      |09:03:33 | 21-10-2026| delay 10s...
+[1]Nazila      |09:03:46 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/nazilakairani/status/2112831650819666019
+[1]Nazila      |09:03:46 | 21-10-2026| delay 10s...
+[1]Nazila      |09:03:58 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/nazilakairani/status/2112831773909793095
+[1]Nazila      |09:03:58 | 21-10-2026| delay 10s...
+[1]Nazila      |09:04:10 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Nazila      |09:04:10 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nazila      |09:04:12 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/nazilakairani/status/2112831699829858484
 --> [1]Nazila menjalankan: Watch Anime
-[1]Nazila      |09:04:39 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Nazila      |09:04:39 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Nazila      |09:04:41 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Nazila      |09:04:48 | 20-10-2026| watch oshi-captains-hat: 5% (5.19/92.00s)
-[1]Nazila      |09:04:54 | 20-10-2026| watch oshi-captains-hat: 12% (11.21/92.00s)
-[1]Nazila      |09:05:00 | 20-10-2026| watch oshi-captains-hat: 18% (16.70/92.00s)
-[1]Nazila      |09:05:06 | 20-10-2026| watch oshi-captains-hat: 24% (22.17/92.00s)
-[1]Nazila      |09:05:19 | 20-10-2026| watch oshi-captains-hat: heartbeat GAGAL http=503
-[1]Nazila      |09:05:24 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Nazila      |09:05:25 | 20-10-2026| watch oshi-rainbow-star: start GAGAL http=503
-[1]Nazila      |09:05:30 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Nazila      |09:05:31 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Nazila      |09:05:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 5% (5.22/87.00s)
-[1]Nazila      |09:05:45 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.86/87.00s)
-[1]Nazila      |09:05:52 | 20-10-2026| watch oshi-rainbow-lighthouse: 20% (17.92/87.00s)
-[1]Nazila      |09:06:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 27% (23.71/87.00s)
-[1]Nazila      |09:06:07 | 20-10-2026| watch oshi-rainbow-lighthouse: 35% (30.55/87.00s)
-[1]Nazila      |09:06:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 42% (36.71/87.00s)
-[1]Nazila      |09:06:19 | 20-10-2026| watch oshi-rainbow-lighthouse: 49% (42.69/87.00s)
-[1]Nazila      |09:06:26 | 20-10-2026| watch oshi-rainbow-lighthouse: 55% (48.20/87.00s)
-[1]Nazila      |09:06:32 | 20-10-2026| watch oshi-rainbow-lighthouse: 62% (54.16/87.00s)
-[1]Nazila      |09:06:38 | 20-10-2026| watch oshi-rainbow-lighthouse: 68% (59.81/87.00s)
-[1]Nazila      |09:06:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 75% (65.48/87.00s)
-[1]Nazila      |09:06:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 81% (70.97/87.00s)
-[1]Nazila      |09:06:57 | 20-10-2026| watch oshi-rainbow-lighthouse: 87% (76.49/87.00s)
-[1]Nazila      |09:07:03 | 20-10-2026| watch oshi-rainbow-lighthouse: 94% (82.18/87.00s)
-[1]Nazila      |09:07:03 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (82.18/87.00s)
-[1]Nazila      |09:07:08 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Nazila      |09:07:10 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Nazila      |09:07:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.21/181.00s)
-[1]Nazila      |09:07:22 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.70/181.00s)
-[1]Nazila      |09:07:29 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.58/181.00s)
-[1]Nazila      |09:07:35 | 20-10-2026| watch bakeru-ikesou-jan-mv: 12% (22.44/181.00s)
-[1]Nazila      |09:07:41 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.94/181.00s)
-[1]Nazila      |09:07:47 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.59/181.00s)
-[1]Nazila      |09:07:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.25/181.00s)
-[1]Nazila      |09:08:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.75/181.00s)
-[1]Nazila      |09:08:06 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (50.23/181.00s)
-[1]Nazila      |09:08:12 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.83/181.00s)
-[1]Nazila      |09:08:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.46/181.00s)
-[1]Nazila      |09:08:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.08/181.00s)
-[1]Nazila      |09:08:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 40% (72.55/181.00s)
-[1]Nazila      |09:08:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (78.42/181.00s)
-[1]Nazila      |09:08:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.99/181.00s)
-[1]Nazila      |09:08:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.57/181.00s)
-[1]Nazila      |09:08:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.17/181.00s)
-[1]Nazila      |09:09:03 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.76/181.00s)
-[1]Nazila      |09:09:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.77/181.00s)
-[1]Nazila      |09:09:15 | 20-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.27/181.00s)
-[1]Nazila      |09:09:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (117.81/181.00s)
-[1]Nazila      |09:09:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.32/181.00s)
-[1]Nazila      |09:09:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.02/181.00s)
-[1]Nazila      |09:09:40 | 20-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.52/181.00s)
-[1]Nazila      |09:09:46 | 20-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.06/181.00s)
-[1]Nazila      |09:09:52 | 20-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.67/181.00s)
-[1]Nazila      |09:09:58 | 20-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.36/181.00s)
-[1]Nazila      |09:10:04 | 20-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.96/181.00s)
-[1]Nazila      |09:10:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
-[1]Nazila      |09:10:16 | 20-10-2026| watch bakeru-ikesou-jan-mv: heartbeat GAGAL http=503
+[1]Nazila      |09:04:13 | 21-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,bakeru-ikesou-jan-mv
+[1]Nazila      |09:04:13 | 21-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Nazila      |09:04:13 | 21-10-2026| watch oshi-captains-hat: mulai dari 0 (record 22.2s diabaikan)
+[1]Nazila      |09:04:15 | 21-10-2026| watch oshi-captains-hat: 24% (22.17/92.00s)
+[1]Nazila      |09:04:22 | 21-10-2026| watch oshi-captains-hat: 24% (22.17/92.00s)
+[1]Nazila      |09:04:28 | 21-10-2026| watch oshi-captains-hat: 24% (22.17/92.00s)
+[1]Nazila      |09:04:35 | 21-10-2026| watch oshi-captains-hat: 24% (22.17/92.00s)
+[1]Nazila      |09:04:41 | 21-10-2026| watch oshi-captains-hat: 25% (23.88/92.00s)
+[1]Nazila      |09:04:48 | 21-10-2026| watch oshi-captains-hat: 31% (29.42/92.00s)
+[1]Nazila      |09:04:55 | 21-10-2026| watch oshi-captains-hat: 38% (35.52/92.00s)
+[1]Nazila      |09:05:01 | 21-10-2026| watch oshi-captains-hat: 45% (41.50/92.00s)
+[1]Nazila      |09:05:07 | 21-10-2026| watch oshi-captains-hat: 51% (46.99/92.00s)
+[1]Nazila      |09:05:14 | 21-10-2026| watch oshi-captains-hat: 57% (53.12/92.00s)
+[1]Nazila      |09:05:20 | 21-10-2026| watch oshi-captains-hat: 63% (58.83/92.00s)
+[1]Nazila      |09:05:26 | 21-10-2026| watch oshi-captains-hat: 69% (64.38/92.00s)
+[1]Nazila      |09:05:33 | 21-10-2026| watch oshi-captains-hat: 75% (69.88/92.00s)
+[1]Nazila      |09:05:39 | 21-10-2026| watch oshi-captains-hat: 82% (76.01/92.00s)
+[1]Nazila      |09:05:45 | 21-10-2026| watch oshi-captains-hat: 88% (81.82/92.00s)
+[1]Nazila      |09:05:52 | 21-10-2026| watch oshi-captains-hat: 94% (87.34/92.00s)
+[1]Nazila      |09:05:52 | 21-10-2026| watch oshi-captains-hat: COMPLETED (87.34/92.00s)
+[1]Nazila      |09:05:57 | 21-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Nazila      |09:05:59 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Nazila      |09:06:05 | 21-10-2026| watch oshi-rainbow-star: 6% (5.33/86.00s)
+[1]Nazila      |09:06:11 | 21-10-2026| watch oshi-rainbow-star: 12% (10.89/86.00s)
+[1]Nazila      |09:06:18 | 21-10-2026| watch oshi-rainbow-star: 19% (16.55/86.00s)
+[1]Nazila      |09:06:27 | 21-10-2026| watch oshi-rainbow-star: 25% (22.28/86.00s)
+[1]Nazila      |09:06:34 | 21-10-2026| watch oshi-rainbow-star: 36% (31.03/86.00s)
+[1]Nazila      |09:06:40 | 21-10-2026| watch oshi-rainbow-star: 42% (36.60/86.00s)
+[1]Nazila      |09:06:46 | 21-10-2026| watch oshi-rainbow-star: 48% (42.11/86.00s)
+[1]Nazila      |09:06:53 | 21-10-2026| watch oshi-rainbow-star: 55% (47.73/86.00s)
+[1]Nazila      |09:07:00 | 21-10-2026| watch oshi-rainbow-star: 62% (53.97/86.00s)
+[1]Nazila      |09:07:06 | 21-10-2026| watch oshi-rainbow-star: 69% (60.03/86.00s)
+[1]Nazila      |09:07:12 | 21-10-2026| watch oshi-rainbow-star: 76% (65.54/86.00s)
+[1]Nazila      |09:07:19 | 21-10-2026| watch oshi-rainbow-star: 82% (71.33/86.00s)
+[1]Nazila      |09:07:25 | 21-10-2026| watch oshi-rainbow-star: 89% (77.01/86.00s)
+[1]Nazila      |09:07:33 | 21-10-2026| watch oshi-rainbow-star: 95% (82.54/86.00s)
+[1]Nazila      |09:07:33 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (82.54/86.00s)
+[1]Nazila      |09:07:38 | 21-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
+[1]Nazila      |09:07:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 162.5s diabaikan)
+[1]Nazila      |09:07:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:07:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:07:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:07:59 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:51 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:08:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:09:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:16 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:22 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.46/181.00s)
+[1]Nazila      |09:10:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.67/181.00s)
+[1]Nazila      |09:10:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 93% (168.66/181.00s)
+[1]Nazila      |09:10:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.66/181.00s)
 --> [1]Nazila menjalankan: Read Article
-[1]Nazila      |09:10:16 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:10:49 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nazila      |09:10:50 | 21-10-2026| mint eligibility: {"userId":"1712316213408489472","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Nazila      |09:10:58 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nazila menjalankan: Quiz Anime
-[1]Nazila      |09:10:16 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:00 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Nazila      |09:11:00 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Nazila      |09:11:00 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Nazila      |09:11:00 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Nazila      |09:11:00 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Nazila      |09:11:00 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Nazila menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nazila      |09:10:17 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Nazila      |09:10:17 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:02 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nazila      |09:11:03 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Nazila      |09:11:03 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nazila      |09:11:03 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazila menjalankan: Claim Missions
-[1]Nazila      |09:10:17 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:03 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Nazila      |09:11:03 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nazila      |09:11:03 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazila menjalankan: Check Eligibility
 
 --- eligibility [1]Nazila ---
-  @nazilakairani | score=1550 rank=4506
-  tasks    [##################--] 73/79
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @nazilakairani | score=1620 rank=4370
+  tasks    [###################-] 74/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nazila menjalankan: Read Manga
-[1]Nazila      |09:10:18 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:08 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nazila menjalankan: Get Gift
-[1]Nazila      |09:10:19 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:08 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Nazila menjalankan: Setup Profile
-[1]Nazila      |09:10:19 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:09 | 21-10-2026| profile: bio="https://x.com/nazilakairani" fav=amato rewardAt=1791686511
+[1]Nazila      |09:11:09 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nazila menjalankan: Bind Wallet
-[1]Nazila      |09:10:19 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |09:11:09 | 21-10-2026| wallet: sudah terikat 9wwEVueUbY... (solana)
 
 == RINGKASAN ==
-- Nazila: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 1/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Nazila: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
