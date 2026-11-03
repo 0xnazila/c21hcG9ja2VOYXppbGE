@@ -12,59 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nazila =====
-[1]Nazila      |08:42:28 | 02-11-2026| login OK @nazilakairani | score=2680 rank=2895
-[1]Nazila      |08:42:28 | 02-11-2026| serverTime=2026-11-02T08:42:28.000Z local=2026-11-02T08:42:28.668Z
+[1]Nazila      |08:52:57 | 03-11-2026| login OK @nazilakairani | score=2740 rank=2850
+[1]Nazila      |08:52:57 | 03-11-2026| serverTime=2026-11-03T08:52:57.000Z local=2026-11-03T08:52:57.181Z
 --> [1]Nazila menjalankan: Claim Daily
-[1]Nazila      |08:42:31 | 02-11-2026| daily: OK +10 poin score=2690
---> [1]Nazila menjalankan: Auto All Tasks (8 pending)
-[1]Nazila      |08:42:32 | 02-11-2026| [1/8] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/nazilakairani/status/2117175078070482989
-[1]Nazila      |08:42:32 | 02-11-2026| delay 10s...
-[1]Nazila      |08:42:42 | 02-11-2026| [2/8] 7f765e65 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/nazilakairani/status/2117175293920888857
-[1]Nazila      |08:42:42 | 02-11-2026| delay 10s...
-[1]Nazila      |08:42:57 | 02-11-2026| [3/8] 1622c12e (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/nazilakairani/status/2117175324844082803
-[1]Nazila      |08:42:57 | 02-11-2026| delay 10s...
-[1]Nazila      |08:43:08 | 02-11-2026| [4/8] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/nazilakairani/status/2117175116957485244
-[1]Nazila      |08:43:08 | 02-11-2026| delay 10s...
-[1]Nazila      |08:43:25 | 02-11-2026| [5/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/nazilakairani/status/2117175311527850607
-[1]Nazila      |08:43:25 | 02-11-2026| delay 10s...
-[1]Nazila      |08:43:37 | 02-11-2026| [6/8] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/nazilakairani/status/2117175277813823557
-[1]Nazila      |08:43:37 | 02-11-2026| delay 10s...
-[1]Nazila      |08:43:49 | 02-11-2026| [7/8] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b7ad33b1-19e1-4135-95d0-9ce863fd96f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211717413413652 | proof=https://x.com/nazilakairani/status/2117175478781749072
-[1]Nazila      |08:43:49 | 02-11-2026| delay 10s...
-[1]Nazila      |08:43:59 | 02-11-2026| [8/8] 9d9a53d3 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/nazilakairani/status/2117175368511703579
-[1]Nazila      |08:43:59 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nazila      |08:43:59 | 02-11-2026| [1/1] b7ad33b1 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/nazilakairani/status/2117175328106066378
+[1]Nazila      |08:52:58 | 03-11-2026| daily: OK +10 poin score=2750
+--> [1]Nazila menjalankan: Auto All Tasks (4 pending)
+[1]Nazila      |08:53:00 | 03-11-2026| [1/4] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/nazilakairani/status/2117540040574369545
+[1]Nazila      |08:53:00 | 03-11-2026| delay 10s...
+[1]Nazila      |08:53:12 | 03-11-2026| [2/4] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/nazilakairani/status/2117540191214307169
+[1]Nazila      |08:53:12 | 03-11-2026| delay 10s...
+[1]Nazila      |08:53:24 | 03-11-2026| [3/4] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/nazilakairani/status/2117540085434329955
+[1]Nazila      |08:53:24 | 03-11-2026| delay 10s...
+[1]Nazila      |08:53:35 | 03-11-2026| [4/4] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/nazilakairani/status/2117540131499996371
+[1]Nazila      |08:53:35 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nazila      |08:53:37 | 03-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/nazilakairani/status/2117540084519017008
 --> [1]Nazila menjalankan: Watch Anime
-[1]Nazila      |08:43:59 | 02-11-2026| watch ERROR: anime-order http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:53:38 | 03-11-2026| watch: semua video sudah completed
 --> [1]Nazila menjalankan: Read Article
-[1]Nazila      |08:44:00 | 02-11-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:53:39 | 03-11-2026| news: 33/34 artikel selesai dibaca
+[1]Nazila      |08:53:40 | 03-11-2026| mint eligibility: {"userId":"1712316213408489472","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Nazila      |08:53:46 | 03-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Nazila menjalankan: Quiz Anime
-[1]Nazila      |08:44:00 | 02-11-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
 --> [1]Nazila menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nazila      |08:44:00 | 02-11-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Nazila      |08:44:00 | 02-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:53:51 | 03-11-2026| music: kedua misi sudah tercapai, stop
+[1]Nazila      |08:53:51 | 03-11-2026| mission music-listens-10: sudah diklaim
+[1]Nazila      |08:53:51 | 03-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nazila      |08:53:51 | 03-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazila menjalankan: Claim Missions
-[1]Nazila      |08:44:01 | 02-11-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:53:52 | 03-11-2026| mission music-listens-10: sudah diklaim
+[1]Nazila      |08:53:52 | 03-11-2026| mission music-minutes-30: sudah diklaim
+[1]Nazila      |08:53:52 | 03-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nazila menjalankan: Check Eligibility
 
 --- eligibility [1]Nazila ---
-  @nazilakairani | score=2680 rank=2895
-  tasks    [#########-----------] 7/15
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @nazilakairani | score=2740 rank=2850
+  tasks    [############--------] 6/10
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [?]
+  watch    [####################] 22/17
+  music    [#################---] 11/13
+  artikel  [####################] 34/34
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nazila menjalankan: Read Manga
-[1]Nazila      |08:44:02 | 02-11-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:53:56 | 03-11-2026| manga: 0/13 chapter belum completed
 --> [1]Nazila menjalankan: Get Gift
-[1]Nazila      |08:44:02 | 02-11-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:53:58 | 03-11-2026| gift: 3/9 belum diterima
+[1]Nazila      |08:53:59 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nazila      |08:54:01 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Nazila      |08:54:07 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Nazila menjalankan: Setup Profile
-[1]Nazila      |08:44:02 | 02-11-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:54:09 | 03-11-2026| profile: bio="https://x.com/nazilakairani" fav=amato rewardAt=1791686511
+[1]Nazila      |08:54:09 | 03-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Nazila menjalankan: Bind Wallet
-[1]Nazila      |08:44:02 | 02-11-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Nazila      |08:54:10 | 03-11-2026| wallet: sudah terikat 9wwEVueUbY... (solana)
 
 == RINGKASAN ==
-- Nazila: daily=claimed | tasks OK 5/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Nazila: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
